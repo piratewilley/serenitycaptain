@@ -1,28 +1,25 @@
-SERENITY CAPTAIN WEBSITE — VERSION 1
+SERENITY CAPTAIN WEBSITE — VERSION 2 BRANDING EDITION
 
-CONTACT
-Phone: (340) 201-2285
-Email: Book@SerenityCaptain.com
-Domain: SerenityCaptain.com
+This version keeps the original Serenity Captain branding as the foundation:
+- Deep navy background
+- Warm gold details
+- Compass identity
+- Elegant serif lettering
+- “Find Your Serenity”
+- Luxury sunset and Caribbean visual direction
 
-WHAT IS INCLUDED
-- Original navy-and-gold Serenity Captain visual identity
-- Gold compass branding
-- Real Serenity sea-trial photography
-- Captain Daniel section
-- Four charter packages with visible pricing
-- Included-items section
-- Gallery
-- Mobile navigation
+Included:
+- Real Serenity sea-trial photographs
+- Captain Daniel photographs
+- Four charter packages with visible prices
+- Phone: (340) 201-2285
+- Email: Book@SerenityCaptain.com
 - Booking request form
+- Mobile responsive layout
 - Firebase Hosting configuration
+- Original branding showcase section
 
-IMPORTANT
-The booking form currently opens the visitor's email app and addresses the request to:
-Book@SerenityCaptain.com
-
-The next phase will connect the form directly to Firebase, add availability, deposits,
-payments, guest check-in, and waivers.
-
-FILES TO UPLOAD TO GITHUB
-Upload everything in this folder, including the assets folder and firebase.json.
+To publish:
+1. Copy all files into the local GitHub serenitycaptain folder.
+2. Commit and push with GitHub Desktop.
+3. Run: firebase deploy
