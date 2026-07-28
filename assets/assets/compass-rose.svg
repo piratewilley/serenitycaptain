@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-labelledby="title desc">
+  <title id="title">Serenity Captain compass rose</title>
+  <desc id="desc">An elegant gold nautical compass rose on a transparent background.</desc>
+  <g fill="none" stroke="#e6bd63" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="120" cy="120" r="91" stroke-width="2.6"/>
+    <circle cx="120" cy="120" r="64" stroke-width="1.5" opacity=".72"/>
+    <circle cx="120" cy="120" r="14" stroke-width="2.2"/>
+    <path d="M120 14 138 102 120 120 102 102Z" fill="#e6bd63" stroke-width="1.7"/>
+    <path d="M120 226 102 138 120 120 138 138Z" fill="#9b6a22" stroke-width="1.7"/>
+    <path d="M14 120 102 102 120 120 102 138Z" fill="#9b6a22" stroke-width="1.7"/>
+    <path d="M226 120 138 138 120 120 138 102Z" fill="#e6bd63" stroke-width="1.7"/>
+    <path d="M45 45 107 107 120 120 99 112Z" fill="#c99335" stroke-width="1.2"/>
+    <path d="M195 195 133 133 120 120 141 128Z" fill="#c99335" stroke-width="1.2"/>
+    <path d="M195 45 133 107 120 120 141 112Z" fill="#e6bd63" stroke-width="1.2"/>
+    <path d="M45 195 107 133 120 120 99 128Z" fill="#e6bd63" stroke-width="1.2"/>
+    <path d="M120 36v14M120 190v14M36 120h14M190 120h14" stroke-width="3"/>
+    <path d="M62 62l10 10M168 168l10 10M178 62l-10 10M72 168l-10 10" stroke-width="2"/>
+    <circle cx="120" cy="120" r="4" fill="#e6bd63" stroke="none"/>
+  </g>
+  <g fill="#f1d58e" font-family="Georgia, serif" font-weight="700" font-size="18" text-anchor="middle">
+    <text x="120" y="18">N</text><text x="120" y="238">S</text>
+    <text x="231" y="126">E</text><text x="9" y="126">W</text>
+  </g>
+</svg>
